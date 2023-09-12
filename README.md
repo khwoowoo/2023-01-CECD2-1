@@ -35,7 +35,7 @@
 ## 🌿 팀원
 | <img src="https://avatars.githubusercontent.com/u/23547185?v=4" width=90px alt="강현우"/>  | <img src="https://avatars.githubusercontent.com/u/71203852?v=4" width=90px alt="김유연"/>  | <img src="https://avatars.githubusercontent.com/u/68751201?v=4" width=90px alt="이주윤"/>  | <img src="https://avatars.githubusercontent.com/u/94609651?v=4" width=90px alt="홍연주"/>   | 
 | :-----: | :-----: | :-----: | :-----: |
-| [강현우<br>[Unity]](https://github.com/khwoowoo) | [김유연<br>[Mesh algorism]](https://github.com/Yuyeon-Kim)  | [이주윤<br>[Scrum Master]](https://avatars.githubusercontent.com/u/71203852?v=4) | [홍연주<br>[Mesh algorism]](https://github.com/lightorange0v0) | 
+| [강현우<br>[Unity]](https://github.com/khwoowoo) | [김유연<br>[Mesh algorism]](https://github.com/Yuyeon-Kim)  | [이주윤<br>[Scrum Master]](https://github.com/Jo0Yo0n) | [홍연주<br>[Mesh algorism]](https://github.com/lightorange0v0) | 
 
 <br/>
 
