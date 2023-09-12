@@ -1,7 +1,7 @@
-## 🚗 3D Map generation via LiDAR and Unity
+## 🌿 3D Map generation via LiDAR and Unity
 2023-1학기 컴퓨터공학종합설계1 팀 잎사귀🌿 
 
-## 🚗 연구 내용
+## 🌿 연구 내용
 ![0001](https://github.com/CSID-DGU/2023-01-CECD2-1/assets/23547185/b36eb8c7-7e52-46fa-ad0f-174b21404bf5)
 ![0008](https://github.com/CSID-DGU/2023-01-CECD2-1/assets/23547185/82f90190-c5b7-43b4-bcd7-d2fef53d3ccd)
 ![0009](https://github.com/CSID-DGU/2023-01-CECD2-1/assets/23547185/13165d42-70fc-498d-94a0-5a33c3419c90)
@@ -28,14 +28,14 @@
 
 <br/>
 
-## 연구 논문
+## 🌿 연구 논문
 [KCC2023_출판용논문.pdf](https://github.com/CSID-DGU/2023-01-CECD2-1/files/12582398/KCC2023_.pdf)
 
 
-## 🚗 Member
+## 🌿 팀원
 | <img src="https://avatars.githubusercontent.com/u/23547185?v=4" width=90px alt="강현우"/>  | <img src="https://avatars.githubusercontent.com/u/71203852?v=4" width=90px alt="김유연"/>  | <img src="https://avatars.githubusercontent.com/u/68751201?v=4" width=90px alt="이주윤"/>  | <img src="https://avatars.githubusercontent.com/u/94609651?v=4" width=90px alt="홍연주"/>   | 
 | :-----: | :-----: | :-----: | :-----: |
-| [강현우](https://github.com/khwoowoo) | [김유연](https://github.com/Yuyeon-Kim)  | [이주윤](https://avatars.githubusercontent.com/u/71203852?v=4) | [홍연주](https://github.com/lightorange0v0) | 
+| [강현우<br>[Unity]](https://github.com/khwoowoo) | [김유연<br>[Mesh algorism]](https://github.com/Yuyeon-Kim)  | [이주윤<br>[Scrum Master]](https://avatars.githubusercontent.com/u/71203852?v=4) | [홍연주<br>[Mesh algorism]](https://github.com/lightorange0v0) | 
 
 <br/>
 
