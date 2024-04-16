@@ -1,6 +1,10 @@
 ## 🌿 3D Map generation via LiDAR and Unity
 2023-1학기 컴퓨터공학종합설계1 팀 잎사귀🌿 
 
+## 🌿 성과
+[한국정보과학회 KCC 2023: 학부생부분 장려상](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2432) <br>
+[DBpia 링크](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11488590&nodeId=NODE11488590&medaTypeCode=185005&isPDFSizeAllowed=true&locale=ko&articleTitle=%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8+3D+%EB%A9%94%EC%89%AC+%EC%83%9D%EC%84%B1%EC%9D%84+%EC%9C%84%ED%95%9C+DBSCAN%EC%9D%84+%EC%9D%B4%EC%9A%A9%ED%95%9C+%EC%84%B8%EA%B7%B8%EB%A9%98%ED%85%8C%EC%9D%B4%EC%85%98+%EB%B0%8F+%EA%B0%9D%EC%B2%B4%EB%B3%84+%EB%B3%91%EB%A0%AC%EC%B2%98%EB%A6%AC+%EB%B0%A9%EB%B2%95+%EC%97%B0%EA%B5%AC&articleTitleEn=A+study+of+object-specific+parallel+processing+methods+and+segmentation+using+DBSCAN+for+efficient+3D+mesh+generation&language=ko_KR&hasTopBanner=true) <br>
+[KCC2023_출판용논문.pdf](https://github.com/CSID-DGU/2023-01-CECD2-1/files/12582398/KCC2023_.pdf)
 
 
 ## 🌿 연구 내용
@@ -28,14 +32,9 @@
 ![0029](https://github.com/CSID-DGU/2023-01-CECD2-1/assets/23547185/985352e7-92bf-44c8-88ba-758ee814dd9e)
 ![0028](https://github.com/CSID-DGU/2023-01-CECD2-1/assets/23547185/00724361-0829-4c86-a8d9-c97008efe4cc)
 
-<br/>
-
-## 🌿 성과
-[한국정보과학회 KCC 2023: 학부생부분 장려상](https://www.kiise.or.kr/academy/board/academyNewsView.fa?MENU_ID=080100&sch_add_bd=%ED%95%99%ED%9A%8C%EC%86%8C%EC%8B%9D&NUM=2432) <br>
-[KCC2023_출판용논문.pdf](https://github.com/CSID-DGU/2023-01-CECD2-1/files/12582398/KCC2023_.pdf)
-
-
 ## 🌿 팀원
 | <img src="https://avatars.githubusercontent.com/u/23547185?v=4" width=90px alt="강현우"/>  | <img src="https://avatars.githubusercontent.com/u/71203852?v=4" width=90px alt="김유연"/>  | <img src="https://avatars.githubusercontent.com/u/68751201?v=4" width=90px alt="이주윤"/>  | <img src="https://avatars.githubusercontent.com/u/94609651?v=4" width=90px alt="홍연주"/>   | 
 | :-----: | :-----: | :-----: | :-----: |
-| [강현우<br>[Unity]](https://github.com/khwoowoo) | [김유연<br>[Mesh algorism]](https://github.com/Yuyeon-Kim)  | [이주윤<br>[Scrum Master]](https://github.com/Jo0Yo0n) | [홍연주<br>[Mesh algorism]](https://github.com/lightorange0v0) | 
+| [강현우<br>[Unity]](https://github.com/khwoowoo) | [김유연<br>[Mesh algorism]](https://github.com/Yuyeon-Kim)  | [이주윤<br>[Scrum Master]](https://github.com/Jo0Yo0n) | [홍연주<br>[Mesh algorism]](https://github.com/lightorange0v0) |
+
+<br/>
